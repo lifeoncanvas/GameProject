@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/GameProject/static/js/main.3501f59e.chunk.js",
+    "main.js.map": "/GameProject/static/js/main.3501f59e.chunk.js.map",
+    "runtime-main.js": "/GameProject/static/js/runtime-main.a83f3042.js",
+    "runtime-main.js.map": "/GameProject/static/js/runtime-main.a83f3042.js.map",
+    "static/js/2.5c294e0d.chunk.js": "/GameProject/static/js/2.5c294e0d.chunk.js",
+    "static/js/2.5c294e0d.chunk.js.map": "/GameProject/static/js/2.5c294e0d.chunk.js.map",
+    "static/js/3.2c65c0a8.chunk.js": "/GameProject/static/js/3.2c65c0a8.chunk.js",
+    "static/js/3.2c65c0a8.chunk.js.map": "/GameProject/static/js/3.2c65c0a8.chunk.js.map",
+    "index.html": "/GameProject/index.html",
+    "static/js/2.5c294e0d.chunk.js.LICENSE.txt": "/GameProject/static/js/2.5c294e0d.chunk.js.LICENSE.txt",
+    "static/media/blueCrystal.9051c0db.png": "/GameProject/static/media/blueCrystal.9051c0db.png",
+    "static/media/graveyard.0bf8dad6.png": "/GameProject/static/media/graveyard.0bf8dad6.png",
+    "static/media/jungle.40a30ccc.webp": "/GameProject/static/media/jungle.40a30ccc.webp",
+    "static/media/lost_crypt.51c50f2d.png": "/GameProject/static/media/lost_crypt.51c50f2d.png",
+    "static/media/mushroom.94081ee4.png": "/GameProject/static/media/mushroom.94081ee4.png",
+    "static/media/weirdo.39f488fc.png": "/GameProject/static/media/weirdo.39f488fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a83f3042.js",
+    "static/js/2.5c294e0d.chunk.js",
+    "static/js/main.3501f59e.chunk.js"
+  ]
+}
